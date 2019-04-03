@@ -1,0 +1,14 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "description": "This is a demo use Git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}

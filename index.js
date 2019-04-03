@@ -7,3 +7,5 @@ var mouse = new Mouse('Jerry','orange');
 cat.eat(mouse);
 
 console.log(cat);
+
+console.log(cat.sayHi());
